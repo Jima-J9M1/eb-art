@@ -57,7 +57,7 @@ export const PORTFOLIO_ITEMS = [
     image: "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=2071&auto=format&fit=crop"
   },
   {
-    id: 13,
+    id: 4,
     title: "Couple on the beach",
     category: "custom",
     image: culture_2
@@ -82,31 +82,31 @@ export const PORTFOLIO_ITEMS = [
     image: portrait_1
   },
   {
-    id: 13,
+    id: 8,
     title: "Couple on the beach",
     category: "custom",
     image: culture_1
   },
   {
-    id: 8,
+    id: 9,
     title: "Couple Wear Red dresses",
     category: "valentines",
     image: valentaine_1
   },
   {
-    id: 9,
+    id: 10,
     title: "Girl With White Dress",
     category: "valentines",
     image: valentaine_2
   },
   {
-    id: 10,
+    id: 11,
     title: "Black Girl",
     category: "portraits",
     image: portrait_2
   },
   {
-    id: 11,
+    id: 12,
     title: "Couple on the beach",
     category: "valentines",
     image: valentaine_3
