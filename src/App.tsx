@@ -6,7 +6,7 @@ import ContactSection from '@/components/contact/ContactSection';
 
 function App() {
   return (
-    <div className="min-h-screen bg-background w-full border-red-500 ">
+    <div className="min-h-screen bg-background w-full ">
       <Header />
       <main>
         <Hero />
